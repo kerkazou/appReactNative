@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Youcode\\Desktop\\mobile\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Youcode\\Desktop\\appReactNative\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -133,6 +133,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Youcode\\Desktop\\appReactNative\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "43",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "693",
+                        "startColumns": "4",
+                        "startOffsets": "44267",
+                        "endColumns": "43",
+                        "endOffsets": "44306"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Youcode\\.gradle\\caches\\transforms-3\\e02b5f8f97fcd8bced077fff18b23eb1\\transformed\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -149,23 +166,6 @@
                         "endLines": "7108",
                         "endColumns": "24",
                         "endOffsets": "385647"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Youcode\\Desktop\\mobile\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "159,265",
-                        "endColumns": "63,68",
-                        "endOffsets": "218,329"
-                    },
-                    "to": {
-                        "startLines": "656,657",
-                        "startColumns": "4,4",
-                        "startOffsets": "41665,41729",
-                        "endColumns": "63,68",
-                        "endOffsets": "41724,41793"
                     }
                 },
                 {
@@ -202,23 +202,6 @@
                         "endLines": "57,346,347,348,356,357,358,587,6426",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "3301,22510,22558,22614,23300,23376,23448,37999,362507"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Youcode\\Desktop\\mobile\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "43",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "693",
-                        "startColumns": "4",
-                        "startOffsets": "44267",
-                        "endColumns": "43",
-                        "endOffsets": "44306"
                     }
                 },
                 {
@@ -310,6 +293,23 @@
                         "startOffsets": "37634,37703",
                         "endColumns": "68,56",
                         "endOffsets": "37698,37755"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Youcode\\Desktop\\appReactNative\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,265",
+                        "endColumns": "63,68",
+                        "endOffsets": "218,329"
+                    },
+                    "to": {
+                        "startLines": "656,657",
+                        "startColumns": "4,4",
+                        "startOffsets": "41665,41729",
+                        "endColumns": "63,68",
+                        "endOffsets": "41724,41793"
                     }
                 },
                 {
