@@ -9,27 +9,25 @@ The application retrieves meals from an API, assigns a price to each meal, and d
 ## 📱 Screenshots
 
 ### 🔹 Meals List Screen
-Shows a list of meals with name, image, short description, price, and filters at the top.
 
-![Meals List](./src/assets/screenshots/MealList.jpg)
+<img src="./src/assets/screenshots/MealList.jpg" width="250" />
 
 ### 🔹 Meal Detail Screen
-Displays the selected meal with a larger image, price, and full preparation instructions.
 
-![Meal Detail](./src/assets/screenshots/MealDetail.jpg)
+<img src="./src/assets/screenshots/MealDetail.jpg" width="250" />
 
 ---
 
 ## ✨ Features
 
-- Fetch and display meals from an API
+- Fetch and display meals from an API  
 - Filter meals by:
   - **Name**
   - **Minimum price**
   - **Maximum price**
-- Pagination with **Next** / **Previous** buttons
-- View complete details of a selected meal
-- Modern and clean UI layout
+- Pagination with **Next** / **Previous** buttons  
+- View complete details of a selected meal  
+- Modern and clean UI layout  
 
 ---
 
@@ -48,7 +46,7 @@ Displays the selected meal with a larger image, price, and full preparation inst
 ## 🚀 Installation & Run
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/kerkazou/appReactNative
 cd mobile
 npm install
 npm run android   # or npm run ios
